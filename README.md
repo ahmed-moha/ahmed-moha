@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Abdulkadir (TIGER)</h1>
 <h3 align="center">A passionate MOBILE & MERN stuck developer from Somalia</h3>
->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-moha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-moha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-moha" alt="ahmed-moha" /></a> </p>
 
-<img align="right" alt="coding image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" /
+<img align="right" alt="coding image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" />
 
 - 🔭 I’m currently working on [Find My Device Mobile Application](https://github.com/ahmed-moha/Barako-GPS)
 
